@@ -1,28 +1,131 @@
 <h1 align="center">Hi 👋, I'm Basavaraja</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Senior Frontend Developer | React • React Native | Building Scalable Web & Mobile Apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basavaraj59&label=Profile%20views&color=0e75b6&style=flat" alt="basavaraj59" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basavaraj59" alt="basavaraj59" /></a> </p>
-
-- 🔭 I’m currently working on **PriorityCare**
-
-- 🌱 I’m currently learning **nodejs**
-
-- 💬 Ask me about **React, React-Native**
-
-- 📫 How to reach me **basavarajsg59@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/basavarajsg15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basavarajsg15" height="30" width="40" /></a>
-<a href="https://fb.com/basavaraj s g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basavaraj s g" height="30" width="40" /></a>
-<a href="https://instagram.com/basavarajsg59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basavarajsg59" height="30" width="40" /></a>
+<p align="center">
+Frontend Developer with ~3 years of experience building scalable web and mobile applications using React.js and React Native across Web, Android, and iOS.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=basavaraj59&label=Profile%20views&color=0e75b6&style=flat" alt="basavaraj59" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basavaraj59&show_icons=true&locale=en&layout=compact" alt="basavaraj59" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basavaraj59&show_icons=true&locale=en" alt="basavaraj59" /></p>
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **Healthcare & Digital Platforms**
+- 📱 Building **React Native mobile apps (Android & iOS)**
+- 🌐 Developing **React web applications**
+- 🔗 Integrated **100+ REST APIs**
+- ⚡ Experienced with **Offline-first architecture, Firebase, WebSockets**
+- ☁️ Worked with **AWS S3, CloudFront, API Gateway**
+- 🎯 Focused on **performance, scalability, and production releases**
+
+---
+
+### 🚀 Featured Projects
+
+#### 🏥 PriorityCare
+Healthcare management platform for clinics.
+
+- Online appointment booking  
+- Real-time queue management  
+- Patient records management  
+- WebSocket based real-time updates  
+- Razorpay payment integration  
+
+---
+
+#### 💊 RxDOZ – Medicine Reminder App
+
+Digital healthcare companion for medication management.
+
+- Advanced medication reminders  
+- SQLite based offline storage  
+- Image based notification reminders  
+- Smart scheduling system  
+
+---
+
+#### 📻 NammRadio
+
+Cross-platform music streaming mobile application.
+
+- React Native version upgrade  
+- Performance optimization  
+- Production deployment to Play Store & App Store  
+
+---
+
+#### 📊 Pet Industry ROAS Calculator
+
+Web application for marketing analytics.
+
+- Calculates ROAS, CTR, CPM, conversions  
+- Real-time performance metrics  
+- EmailJS automated report generation  
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+
+</p>
+
+---
+
+### ⚡ Tech Stack
+
+- **Frontend:** React.js, React Native, Next.js  
+- **Languages:** JavaScript, TypeScript, HTML, CSS  
+- **Backend Integration:** REST APIs, WebSockets  
+- **Mobile Features:** Offline storage, Notifications, SQLite  
+- **Cloud & Tools:** Firebase, AWS S3, CloudFront, BigQuery  
+- **Dev Tools:** Git, Postman, npm, EmailJS, Trello  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=basavaraj59&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basavaraj59&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/basavaraja-sg-b08487333" target="blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30" />
+</a>
+
+<a href="mailto:basavarajsg59@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30"/>
+</a>
+
+</p>
+
+---
+
+⭐ **Open to Frontend / React / React Native Opportunities**
